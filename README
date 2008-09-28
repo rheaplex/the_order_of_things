@@ -1,0 +1,11 @@
+The Order Of Things
+-------------------
+
+A simple generative postscript piece from 1995.
+Inspired by Julain Opie and neo-plasticism.
+
+To run you'll need a PostScript interpreter.
+
+GhostScript/GSView or Mac OS X's Preview.app will both work.
+
+
